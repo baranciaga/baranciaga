@@ -2,7 +2,6 @@
 
  Im a Self-proclaimed IT-guy. Im currently interested in learning Rust since i would like to delve deeper into high-level programming.\
  I also like playing GeoGuessr and other computer games as well as solving sudokus. I even do competitive programming from time to time.\
- 
  Check out my personal website: https://baranakcin.dev [Work in Progress]
  
 
