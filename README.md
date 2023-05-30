@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @baranciaga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello there!👋
+
+ Im a Self-proclaimed IT-guy. Im currently interested in learning Rust since i would like to delve deeper into high-level programming.
+ I also like playing GeoGuessr and other computer games as well as solving sudokus. I even do competitive programming from time to time.
+ 
+ Check out my personal website: https://baranakcin.dev [Work in Progress]
+ 
 
 <!---
 baranciaga/baranciaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
