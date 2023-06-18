@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋</h1>
+<h2 align="center">Hello there👋</h2>
 
  Im a Self-proclaimed IT-guy. Im currently interested in learning Rust since i would like to delve deeper into high-level programming.\
  I also like playing GeoGuessr and other computer games as well as solving sudokus. I even do competitive programming from time to time.\
